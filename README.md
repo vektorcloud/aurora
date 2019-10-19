@@ -1,6 +1,6 @@
 # Apache Aurora
 
-![circleci][circleci]
+[![circleci][circleci]](https://circleci.com/gh/vektorcloud/aurora)
 
 [Apache Aurora](http://aurora.apache.org/) in Docker.
 
